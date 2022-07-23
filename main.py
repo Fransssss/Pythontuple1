@@ -4,7 +4,7 @@ import datetime
 personOne = ["Andy", 19, "Running"]
 personTwo = ["Bandy", 20, "Swimming"]
 
-print("\n== Tudle Practice ==")
+print("\n== Tuple Practice ==")
 print("1. Display data")
 print("2. Count how many times a word exist")
 print("3. Locate an index of a word")
